@@ -23,7 +23,7 @@ GENOMES = {
     ('Severe_acute_respiratory_syndrome-related_coronavirus', 'GCF_009858895.2'): 'https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Severe_acute_respiratory_syndrome-related_coronavirus/latest_assembly_versions/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz',
     ('Middle_East_respiratory_syndrome-related_coronavirus', 'GCF_000901155.1'): 'https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Middle_East_respiratory_syndrome-related_coronavirus/latest_assembly_versions/GCF_000901155.1_ViralProj183710/GCF_000901155.1_ViralProj183710_genomic.fna.gz',
     ('Respiratory_syncytial_virus', 'GCF_000856445.1'): 'https://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/Respiratory_syncytial_virus/latest_assembly_versions/GCF_000856445.1_ViralProj15004/GCF_000856445.1_ViralProj15004_genomic.fna.gz',
-	
+	('test':)
 }
 
 FILE_FIELD_DELIM = '___'
